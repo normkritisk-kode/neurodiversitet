@@ -5,15 +5,31 @@ Neurodiversitet betyder noget i retning af at der findes flere forskellige slags
 
 At være **neurodivergent** betyder at man har en hjernetype som ikke er den mest udbredte i befolkningen.
 
-Hvis man ikke er neurodivergent kaldes det at være **neurotypisk** - ofte forkortet til "NT". 
+Hvis man ikke er neurodivergent kaldes det at være **neurotypisk** - ofte forkortet til "NT".
+
+#### Hvem er neurodivergente
+
+Der er ikke nogen klar definition på begrebet men typisk inkluderer man mennesker med ADHD, ADD, Autisme, Tourettes, ordblindhed og lignende ting som omtales som "diagnoser".
 
 
 
-#### [autisme](autisme/README.md)
+
+#### Euforismer for neurodiversitet
+
+Fordi neurodiversitet er stigmatiseret bliver udtrykket *diagnoser* ofte brugt det danske samfund i steddet for fx autisme eller ADHD. Ofte siger man måske "Der er mange børn med diagnoser i klassen" men man mener ikke at der er børn der fx er diagnosticeret med diabetes eller langsynethed. Ofte bruges udtrykket "diagnoser" måske  som et pænere udtryk for "psykiatiske diagnoser" men udtrykket "diagnoser" er med til at stigmatisere neurodivergente mennesker. Man får jo ikke stillet en diagnose hvis man er rask.
 
 
-#### [ADHD](ADHD/README.md)
+
+#### Autisme :infinity:
+
+
+
+#### ADHD
 
 
 #### LGBT 	:rainbow_flag:
 Neurodivergente mennesker er oftere LGBT+ personer end neurotypiske mennesker.
+
+
+#### Ressourser
+
