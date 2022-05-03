@@ -13,3 +13,7 @@ Hvis man ikke er neurodivergent kaldes det at være **neurotypisk** - ofte forko
 
 
 #### [ADHD](ADHD/README.md)
+
+
+#### LGBT 	:rainbow_flag:
+Neurodivergente mennesker er oftere LGBT+ personer end neurotypiske mennesker.
